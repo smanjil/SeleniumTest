@@ -3,8 +3,8 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 
-email = 'manshrestha@growbydata.com'
-password = 'AB1234cd'
+email = ''
+password = ''
 
 driver = webdriver.Chrome()
 
